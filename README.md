@@ -4,24 +4,22 @@
 
 A collection of startpages based on popular colorschemes.
 
-Link to any startpage: https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/gloom/
-
 Following are the available colorschemes:
 
-- gloom
+- [gloom](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/gloom/)
 
-- gruvbox-dark
+- [gruvbox-dark](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/gruvbox-dark/)
 
-- material
+- [material](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/material/)
 
-- nord by [saligrama](https://github.com/saligrama/)
+- [nord](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/nord/) by [saligrama](https://github.com/saligrama/)
 
-- ocean
+- [ocean](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/ocean/)
 
-- onedark
+- [onedark](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/onedark/)
 
-- pristine
+- [pristine](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/pristine/)
 
-- solarized-dark
+- [solarized-dark](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/solarized-dark/)
 
-- tomorrow-night
+- [tomorrow-night](https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/tomorrow-night/)
