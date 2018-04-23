@@ -4,7 +4,7 @@
 
 A collection of startpages based on popular colorschemes.
 
-Link to any startpage: https://nerdypepper.github.io/startpages/colorscheme_name_here/
+Link to any startpage: https://earthserpent89.github.io/Nerdypepper-Startpage/startpages/solarized-dark/
 
 Following are the available colorschemes:
 
